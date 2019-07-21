@@ -1,0 +1,8 @@
+"","VIIRS","OLS (radiance calibrated)"
+"OLS (stable lights)",0.57,0.62
+"SANUI",0.76,0.85
+"VANUI",0.7,0.69
+"SeaWinds",0.6,0.76
+"1-NDVI",0.41,0.28
+"1-NDVI[0-1]",0.41,0.28
+"TVANUI",0.66,0.68
