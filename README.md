@@ -1,6 +1,6 @@
 # Further adjustment of DSMP/OLS using radar data
 
-This repository is supplementary to the manuscript of "Further adjustment of DSMP/OLS using radar data".
+This repository is supplementary to the manuscript of ["Further adjustment of DSMP/OLS using radar data"](https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-13/issue-3/034507/Further-adjustment-of-the-Defense-Meteorological-Satellite-ProgramOperational-Linescan-System/10.1117/1.JRS.13.034507.short?SSO=1).
 
 ## Installation
 
